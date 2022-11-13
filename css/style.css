@@ -1166,7 +1166,7 @@ html:not(.body-menu-opened) .hamburger:hover .bottom-bun {
 /* 4.1 Slide About */
 
 .title-mini {
-	margin-bottom: .8125rem;
+	margin-bottom: .1125rem;
 	font-size: .875rem;
 	font-weight: 600;
 	text-transform: uppercase;
